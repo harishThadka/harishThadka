@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm HarishThadka
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohitrakhade20/)][linkedin]
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harish-thadka-059341196/)][linkedin]
 
 ## I'm a Developer who likes to Code 👨‍💻
 
@@ -7,7 +7,6 @@
 - 🌱 I also write tech articals on [Medium][medium]
 - 👯 I also run a developer's community named as [Coding Valley][website]
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Commited to #100DaysOfCode Challenge
 
 ### Connect with me:
 

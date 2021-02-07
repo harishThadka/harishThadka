@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm HarishThadka
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harish-thadka-059341196)][linkedin]
 <img align="center" alt="Mohit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harishthadka&show_icons=true&hide_border=true&theme=radical" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harishthadka&langs_count=8)](https://github.com/harishthadka/github-readme-stats)
 
 ## I'm a Developer who likes to Code 👨‍💻
 

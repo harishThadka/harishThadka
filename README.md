@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm HarishThadka
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohitrakhade20/)][linkedin]
-<!--
-**harishThadka/harishThadka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 ## I'm a Developer who likes to Code 👨‍💻
 

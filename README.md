@@ -36,6 +36,4 @@
 <br />
 <br />
 
----
-
-<img align="center" alt="Mohit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harishthadka&show_icons=true&hide_border=true" />
+<img align="center" alt="Mohit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harishthadka&show_icons=true&hide_border=true&theme=radical" />

@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm HarishThadka
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harish-thadka-059341196/)][linkedin]
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harish-thadka-059341196)][linkedin]
 
 ## I'm a Developer who likes to Code 👨‍💻
 
@@ -38,12 +38,5 @@
 
 ---
 
-<img align="left" alt="Mohit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohitrakhade20&show_icons=true&hide_border=true" />
-
-[website]: https://codingvalley.ml/
-[twitter]: https://twitter.com/mohitrakhade20
-[youtube]: https://www.youtube.com/channel/UC9TTjrGXiEJ2luE3CfcsWgg
-[instagram]: https://www.instagram.com/mohit_._2020/
-[linkedin]: https://www.linkedin.com/in/mohit-rakhade/
-[medium]: https://medium.com/@mohitrakhade20
-[git]: https://git.io/devmohit
+<img align="left" alt="Mohit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harishthadka&show_icons=true&hide_border=true" />
+[linkedin]: https://www.linkedin.com/in/harish-thadka-059341196

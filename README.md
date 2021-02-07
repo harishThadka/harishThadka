@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm HarishThadka[![](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harish-thadka-059341196)](https://www.linkedin.com/in/harish-thadka-059341196/)  
 <p align='center'>
   <img alt="HarishThadka Github Stats" src="https://github-readme-stats.vercel.app/api?username=harishthadka&show_icons=true&hide_border=true&theme=dark" />
+  <br>
   <img alt="HarishThadka Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishthadka&langs_count=8" />
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harishthadka&langs_count=8)](https://github.com/harishthadka)  -->
 </p>

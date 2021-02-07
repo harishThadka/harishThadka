@@ -4,12 +4,7 @@
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harishthadka&langs_count=8)](https://github.com/harishthadka)  
 
-## I'm a Developer who likes to Code 👨‍💻
-
-- 🔭 I’m currently working on a [MERN Stack & Blockchian][website]!
-- 🌱 I also write tech articals on [Medium][medium]
-- 👯 I also run a developer's community named as [Coding Valley][website]
-- 🥅 2021 Goals: Contribute more to Open Source projects
+## I'm a Full Stack Developer who likes to Code 👨‍💻
 
 ### Connect with me:
 

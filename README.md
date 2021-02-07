@@ -12,7 +12,6 @@ I'm a graduate student from NorthWest Missouri State University and experienced 
 <hr>
 <p align='center'>
   <img alt="HarishThadka Github Stats" src="https://github-readme-stats.vercel.app/api?username=harishthadka&show_icons=true&hide_border=true" />
-  <br>
   <img alt="HarishThadka Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishthadka&langs_count=5" />
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harishthadka&langs_count=8)](https://github.com/harishthadka)  -->
 </p>

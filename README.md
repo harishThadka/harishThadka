@@ -38,5 +38,4 @@
 
 ---
 
-<img align="left" alt="Mohit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harishthadka&show_icons=true&hide_border=true" />
-[linkedin]: https://www.linkedin.com/in/harish-thadka-059341196
+<img align="center" alt="Mohit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harishthadka&show_icons=true&hide_border=true" />

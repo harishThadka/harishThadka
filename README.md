@@ -5,9 +5,9 @@
 <!--   [![](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harish-thadka-059341196)](https://www.linkedin.com/in/harish-thadka-059341196/) -->
 </h3>
 <hr>
-<h4 align="center">
+<!-- <h4 align="center">
 I'm a graduate student from NorthWest Missouri State University and experienced full stack web developer looking for new opportunities.
-</h4>
+</h4> -->
 
 <hr>
 <p align='center'>

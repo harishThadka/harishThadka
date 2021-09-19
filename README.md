@@ -1,5 +1,5 @@
 <h3 align='center'>Hi there 👋, I'm HarishThadka
-  <a href="https://www.linkedin.com/in/harish-thadka-059341196">
+<!--   <a href="https://www.linkedin.com/in/harish-thadka-059341196"> -->
   <img alt="LinkedIn Logo" src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link"/>
   <a/>
 <!--   [![](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harish-thadka-059341196)](https://www.linkedin.com/in/harish-thadka-059341196/) -->
